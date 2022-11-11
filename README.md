@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jonah-Josiah
+- 👀 I’m interested in software tech
+- 🌱 I’m currently learning software programming 
